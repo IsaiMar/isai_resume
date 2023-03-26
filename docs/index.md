@@ -35,33 +35,33 @@ __Pacific Northwest National Lab__, Richland, WA
 - Published a journal article in Environmental Quality. -->
 ###	MC Market cashier | BYUI Food services | Rexburg, ID 
 `September 2021 - April 2022`
-•	Responsible for receiving, stocking, and maintaining product inventory.
-•	I helped customers check out, maintained the store clean, multitasking receiving, stocking, and checking out people.
+-	Responsible for receiving, stocking, and maintaining product inventory.
+-	I helped customers check out, maintained the store clean, multitasking receiving, stocking, and checking out people.
 
 ### Relevant Coursework
-•	Applied Programming (CSE 310)
-•	Programming with Data Structures (CSE 212) 
-•	JavaScript Language (CSE 121b)
-•	Web Fundamentals (WDD 130)
-•	Programming with Classes (CSE 210)	•	Clojure Language (CSE 221 a) 
-•	Introduction to Programming (CIT 160)
-•	Programming with functions (CSE 111)
-•	Technical Teamwork (CSE 170)
-•	Computer Systems (ECEN 106)
-•	Algorithmic Thinking (CSE 180)
+-	Applied Programming (CSE 310)
+-	Programming with Data Structures (CSE 212) 
+-	JavaScript Language (CSE 121b)
+-	Web Fundamentals (WDD 130)
+-	Programming with Classes (CSE 210)	•	Clojure Language (CSE 221 a) 
+-	Introduction to Programming (CIT 160)
+-	Programming with functions (CSE 111)
+-	Technical Teamwork (CSE 170)
+-	Computer Systems (ECEN 106)
+-	Algorithmic Thinking (CSE 180)
 
 
 ### Skills
 
-•	Fluent in Spanish
-•	Proficient in Audacity (Audio editor software)
-•	Proficient in Unity Engine
-•	Proficient in R Studio
-•	Knowledge of Power tools
-•	Multitasking
-•	Advanced knowledge of Excel, Word, PowerPoint, and Outlook
-•	Teamwork	
-•	American Folk dancing
+-	Fluent in Spanish
+-	Proficient in Audacity (Audio editor software)
+-	Proficient in Unity Engine
+-	Proficient in R Studio
+-	Knowledge of Power tools
+-	Multitasking
+-	Advanced knowledge of Excel, Word, PowerPoint, and Outlook
+-	Teamwork	
+-	American Folk dancing
 
 ## Service and Work History
 
