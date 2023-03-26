@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Isai's Resume
 ---
 # Isai Mar
