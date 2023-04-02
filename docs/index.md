@@ -39,17 +39,17 @@ __Pacific Northwest National Lab__, Richland, WA
 -	I helped customers check out, maintained the store clean, multitasking receiving, stocking, and checking out people.
 
 ### Relevant Coursework
--	Applied Programming (CSE 310)
--	Programming with Data Structures (CSE 212) 
--	JavaScript Language (CSE 121b)
--	Web Fundamentals (WDD 130)
--	Programming with Classes (CSE 210)	
--   Clojure Language (CSE 221 a) 
--	Introduction to Programming (CIT 160)
--	Programming with functions (CSE 111)
--	Technical Teamwork (CSE 170)
--	Computer Systems (ECEN 106)
--	Algorithmic Thinking (CSE 180)
+-	Applied Programming
+-	Programming with Data Structures 
+-	JavaScript Language
+-	Web Fundamentals
+-	Programming with Classes
+-   Clojure Language
+-	Introduction to Programming
+-	Programming with functions
+-	Technical Teamwork
+-	Computer Systems
+-	Algorithmic Thinking
 
 
 ### Skills
@@ -69,7 +69,7 @@ __Pacific Northwest National Lab__, Richland, WA
 `2018-2020`
 __Missionary for the Church of Jesus Christ of Latter-day Saints__, South Carolina, Columbia
 
-
+I took out the course codes. They won't be relevant to anyone outside of a student or teacher at BYUI. Also, I would add some of the experience from your mission (a reason to put it on your resume)
 
 <!-- ### Footer
 
