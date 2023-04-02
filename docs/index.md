@@ -7,7 +7,6 @@ Computer Science Major at Brigham Young University
 
 <div id="webaddress">
 <a href="mar18026@byui.edu">mar18026@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://github.com/IsaiMar">Github</a>
 | <a href="https://www.linkedin.com/in/isai-mar-gar/">Linkedin</a>
 </div>
@@ -25,14 +24,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-<!-- ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality. -->
 ###	MC Market cashier | BYUI Food services | Rexburg, ID 
 `September 2021 - April 2022`
 -	Responsible for receiving, stocking, and maintaining product inventory.
@@ -69,7 +61,9 @@ __Pacific Northwest National Lab__, Richland, WA
 `2018-2020`
 __Missionary for the Church of Jesus Christ of Latter-day Saints__, South Carolina, Columbia
 
-I took out the course codes. They won't be relevant to anyone outside of a student or teacher at BYUI. Also, I would add some of the experience from your mission (a reason to put it on your resume)
+-	Trained and supervised other missionaries and collaborated with mission leaders to improve mission success
+-	Participated in various service projects, including public park cleanup, gardening, and house moving.
+
 
 <!-- ### Footer
 
