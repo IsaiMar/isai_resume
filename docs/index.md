@@ -16,14 +16,18 @@ Computer Science Major at Brigham Young University
 
 ## Education
 
-`Expected 2024`
+`Expected April 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.0 Major GPA
 
+## Projects
 
-## Related Experience
+### XGBoost Machine learning model | Python, XGBoost | October 2023
+- Lead a team of 4 students.
+- Developed an XGBoost model that predicts the price of homes with 93 percent accuracy.
 
+## Work Experience
 
 ###	MC Market cashier | BYUI Food services | Rexburg, ID 
 `September 2021 - April 2022`
@@ -31,17 +35,17 @@ __Brigham Young University - Idaho__, Rexburg, ID
 -	I helped customers check out, maintained the store clean, multitasking receiving, stocking, and checking out people.
 
 ### Relevant Coursework
--	Applied Programming
--	Programming with Data Structures 
--	JavaScript Language
--	Web Fundamentals
--	Programming with Classes
--   Clojure Language
--	Introduction to Programming
--	Programming with functions
--	Technical Teamwork
--	Computer Systems
--	Algorithmic Thinking
+-   Data Structures
+-   Intro to Databases
+-   Algorithmic Thinking
+-   Data Science
+-   Web Front-end I
+-   Computer Systems
+-   Parallelism and
+Concurrency
+-   Machine Learning
+-   App Calculus for DS
+-   Applied Programming
 
 
 ### Skills
@@ -67,6 +71,6 @@ __Missionary for the Church of Jesus Christ of Latter-day Saints__, South Caroli
 
 <!-- ### Footer
 
-Last updated: March 25,2023 -->
+Last updated: December 2nd,2023 -->
 
 
