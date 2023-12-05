@@ -24,13 +24,13 @@ __Brigham Young University - Idaho__, Rexburg, ID `Expected April 2025`
 ### XGBoost Machine learning model | Python, XGBoost
 `October 2023`  
 
-*** Lead a team of 4 students.  
-*** Developed an XGBoost model that predicts the price of homes with 93 percent accuracy.  
+* Lead a team of 4 students.  
+* Developed an XGBoost model that predicts the price of homes with 93 percent accuracy.  
 
 ### Chat bot | Python, Chatter Bot Corpus
 `December 2022`  
 
-*** Created my first chat bot using the Chatter Bot Corpus library.  
+* Created my first chat bot using the Chatter Bot Corpus library.  
 * Future plans to make a multilingual Chat bot that recognizes questions in other languages like Spanish.
 
 ### Fitness Tracker App | Python, React
@@ -82,14 +82,9 @@ __Missionary for the Church of Jesus Christ of Latter-day Saints__, South Caroli
 -	Trained and supervised other missionaries and collaborated with mission leaders to improve mission success
 -	Participated in various service projects, including public park cleanup, gardening, and house moving.
 
-* This is the first list item.
-* Here's the second list item.
 
-    I need to add another paragraph below the second list item.
+### Footer
 
-* And here's the third list item.
-<!-- ### Footer
-
-Last updated: December 2nd,2023 -->
+Last updated: December 2nd,2023 
 
 
