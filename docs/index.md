@@ -33,15 +33,15 @@ __Brigham Young University - Idaho__, Rexburg, ID `Expected April 2025`
 
 ### Fitness Tracker App | Python, React
 `October 2022`  
--   Learned how to work with React.  
--   Learned how to research and integrate components from the Material UI library   
+- Learned how to work with React.  
+- Learned how to research and integrate components from the Material UI library   
    
 ## Work Experience
 
 ###	MC Market cashier | BYUI Food services | Rexburg, ID 
 `September 2021 - April 2022`  
--	Responsible for receiving, stocking, and maintaining product inventory.  
--	I helped customers check out, maintained the store clean, multitasking receiving, stocking, and checking out people.  
+- Responsible for receiving, stocking, and maintaining product inventory.  
+- I helped customers check out, maintained the store clean, multitasking receiving, stocking, and checking out people.  
 
 ## Relevant Coursework
 -   Data Structures
